@@ -14,8 +14,9 @@
 
 ### 代码示例
 
-'''bash
+```bash
  git clone
 https://github.com/skills/communicate-using-markdown
 
+js
 var myVar = "Hello,word!"
