@@ -1,6 +1,7 @@
 # Daily Learning
 
 ## Morning Planning
+< img alt="Cloudy morning" src="https://octodex.github.com/images/clouds.jpg" width="100" align="right">
 -背英语单词
 -刷题
 -看网课
