@@ -1,6 +1,7 @@
 # Daily Learning
 
 ## Morning Planning
+![Mona the Octocat](https://octodex.github.com/images/original.png)
 <img alt="Cloudy morning" src="https://octodex.github.com/images/clouds.jpg" width="100" align="right">
 
 -背英语单词
