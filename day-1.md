@@ -20,5 +20,5 @@
  git clone
 https://github.com/skills/communicate-using-markdown
 
-js
+```js
 var myVar = "Hello,world!"
